@@ -1,6 +1,4 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 易學啟蒙小傳
-#+DATE: 2015-09-23 09:34:42
-#+PROPERTY: KEY 易學啟蒙小傳/周易古經發題
-#+PROPERTY: JUAN 4
-
+#+KEY: 易學啟蒙小傳/周易古經發題
+#+PROPERTY: JUAN 周易古經發題
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類

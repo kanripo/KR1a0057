@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易學啟蒙小傳
-#+DATE: 2015-09-23 09:34:42
-#+PROPERTY: KEY 易學啟蒙小傳/周易古經發題
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:55:47.057937
+#+PROPERTY: ID KR1a0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 易學啟蒙小傳
 <pb:KR1a0057_WYG_001-1a>¶
 欽定四庫全書¶
 　易學啟䝉小𫝊¶
@@ -382,4 +383,3 @@
 <pb:KR1a0057_WYG_001-27b>¶
 斯文興喪闗諸天而聖人處憂患也樂天而知命此天¶
 之所以為天而文王孔子之所以為文也夫¶
-

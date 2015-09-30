@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易學啟蒙小傳
-#+DATE: 2015-09-23 09:34:42
-#+PROPERTY: KEY 易學啟蒙小傳/周易古經發題
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:55:47.093126
+#+PROPERTY: ID KR1a0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 易學啟蒙古經傳周易古經發題
 <pb:KR1a0057_WYG_003-1a>¶
 周易古經𤼵題¶
 邵子觀物篇曰八卦之象不易者四反易者二以六卦¶
@@ -227,4 +228,3 @@
 卦𫝊八序卦𫝊九雜卦𫝊十其經卦如乾坤不可反則¶
 畫兩卦如屯䝉可反止畫一卦今録其乾坤屯䝉四卦¶
 為例餘象不復録¶
-
